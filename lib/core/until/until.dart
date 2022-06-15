@@ -6,6 +6,8 @@ class AppColor {
 
 class AppImage {
   static const String logo = 'assets/svg/logo.svg';
+  static const String vnFlag = 'assets/svg/flag_vn.svg';
+  static const String enFlag = 'assets/svg/flag_en.svg';
 
   static const String menu1 = 'assets/images/menu1.png';
   static const String menu2 = 'assets/images/menu2.png';

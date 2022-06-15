@@ -1,11 +1,15 @@
 class MenuModel {
-  final String name;
+  final String nameVi;
+  final String nameEn;
   final String image;
-  final String link;
+  final String linkVi;
+  final String linkEn;
 
   MenuModel({
-    required this.name,
+    required this.nameVi,
+    required this.nameEn,
     required this.image,
-    required this.link,
+    required this.linkVi,
+    required this.linkEn,
   });
 }
